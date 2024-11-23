@@ -17,7 +17,7 @@ export default class GitHub extends Forge {
 
     static prettyName = 'GitHub';
 
-    static allowInstances = false;
+    static allowInstances = true;
 
     static defaultURL = 'github.com';
 
